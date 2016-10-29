@@ -16,7 +16,7 @@ Docker Study Jams 2016 Course materials
 
 ## Docker Orchestration in Development (Day II)
 
-- [Docker Compose](3-orchestration-in-development/3.1-docker-compose.md)
+- [Docker Compose](2-orchestration-in-development/2.1-docker-compose.md)
 
 ## Advanced Docker (Day III)
 
