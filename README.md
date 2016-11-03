@@ -20,13 +20,13 @@ Docker Study Jams 2016 Course materials
 
 ## Advanced Docker (Day III)
 
-- Optimising Images
-- Networking
-- Volumes
+- [Optimising Images](https://github.com/Docker-Buea/Docker-Study-Jams/blob/master/3-optimising-networking-volume-events/3.1-Optimising-images.md)
+- [Networking](https://github.com/Docker-Buea/Docker-Study-Jams/blob/master/3-optimising-networking-volume-events/3.2-Networking-containers.md)
+- [Volumes](https://docs.docker.com/engine/tutorials/dockervolumes/)
 - [Events](https://docs.docker.com/engine/reference/commandline/events/)
 
 ## Docker Orchestration in Production (Day IV)
 
-- Swarm Mode
+- [Swarm Mode](https://rominirani.com/docker-swarm-tutorial-b67470cf8872#.vjpbctpbr)
 
 
