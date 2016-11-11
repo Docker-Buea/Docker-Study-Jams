@@ -1,7 +1,7 @@
 # Docker-Study-Jams
 Docker Study Jams 2016 Course materials
 
-######  Author @Ch3ck; Inspired by @rawkode
+######  Author [Ch3ck](https://github.com/Ch3ck); Inspired by [rawkode](https://github.com/rawkode) and [Romain Irani](https://rominirani.com/@iromin)
 
 ------
 
