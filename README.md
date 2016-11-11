@@ -28,5 +28,6 @@ Docker Study Jams 2016 Course materials
 ## Docker Orchestration in Production (Day IV)
 
 - [Swarm Mode](https://github.com/Docker-Buea/Docker-Study-Jams/blob/master/4-swarm-mode/4.1-swarm-mode.md)
+- [Container Security](https://oreil.ly/ops-perf)
 
 
